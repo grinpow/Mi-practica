@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: space-around;
+}
+
+p{
+    padding-bottom: 20px;
+}
+
+h2{
+    text-align: left;
+
+}
+
+.home{
+    color: #3B06D2
+    ;
+}
+
+.servicios{
+    color:#D206B2;
+
+}
+
+.portafolio{
+    color:#AAD206;
+}
+
+li{
+ color:#03B2B2;
+
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
